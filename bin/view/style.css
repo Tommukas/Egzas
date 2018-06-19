@@ -1,0 +1,19 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#buttons{
+	-fx-text-fill: white;
+	-fx-background-color: #801f3c;
+	-fx-font-weight:bold;
+}
+
+#loginText{
+	-fx-text-fill: white;
+}
+
+#borderPane{
+	-fx-background-image: url("bg.png");
+	-fx-background-size: 250 300;
+}
+#bpRootDashboard{
+	-fx-background-image: url("dashBg.png");
+	-fx-background-size: 1000 600;
+}
